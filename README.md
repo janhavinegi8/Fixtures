@@ -23,7 +23,7 @@ The whole schedule of games to be played in a tournament.
 ## Author
   - JANHAVI NEGI
 ## Contact
-  - Email: @janhavinegi4@gmail
-  - Github:
+  - Email: janhavinegi4@gmail.com
+  - Github: [github profile](https://github.com/janhavinegi8/Fixtures.c/tree/main)
   - Linkedin:
     
