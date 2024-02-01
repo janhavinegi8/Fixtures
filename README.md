@@ -10,7 +10,7 @@ The whole schedule of games to be played in a tournament.
   - Tells about how many round going to be held.
   - Helps to find matches easily between teams.
 ## Technologies Used
-  - C Language
+  - C Programming Language.
 ## Installation  
   - Clone the repository or download the ZIP file.
   - Now use the following commands to run
