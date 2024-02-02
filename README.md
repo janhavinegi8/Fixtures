@@ -1,6 +1,6 @@
 # FIXTURES MAKING
 ![](https://cdn.iconscout.com/icon/premium/png-512-thumb/playoff-3928908-3262938.png?f=webp&w=256)
-4
+
 
 The whole schedule of games to be played in a tournament.
 
@@ -15,6 +15,11 @@ The whole schedule of games to be played in a tournament.
   - Clone the repository or download the ZIP file.
   - Now use the following commands to run
   the programme-
+  ```bash
+     cd fixtures.c
+     gcc fixtures.c
+     ./fixtures .exe || ./fixtures .out (depending on your os)
+```
 ## How to use?
   - Enter total number of teams.
   - It will show the total rounds and matches of the team.
